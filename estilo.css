@@ -268,7 +268,6 @@ html{
 
 /*Contacto*/
 .contacto{
-    background-image: url(img/contact_bg.png);
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
@@ -368,7 +367,7 @@ html{
         width: 180px;
     }
     nav.responsive ul{
-        display: block !important;
+        display: block;
     }
     nav.responsive ul li{
         border-bottom: 1px solid #fff;
